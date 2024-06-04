@@ -8,7 +8,7 @@ Both python notebooks have been used for trying a final prediction. The best mod
 ![image](https://github.com/fabio-scarel/Kaggle-Titanic-Spacechip-Competion/assets/114494196/109399a6-8168-4dfb-a683-4994d0060580)
 
 ## About the Competition
-The Titanic Spaceship Competition is a popular Kaggle competition where participants are tasked with predicting the survival of passengers aboard a spaceship. The challenge involves understanding and analyzing the dataset, engineering features, and building predictive models.
+The Titanic Spaceship Competition is a popular Kaggle competition where participants are tasked with predicting if the passengers aboard a spaceship were transported to an alternate dimension. The challenge involves understanding and analyzing the dataset, engineering features, and building predictive models.
 
 ## Project Structure
 ### Data Exploration:
