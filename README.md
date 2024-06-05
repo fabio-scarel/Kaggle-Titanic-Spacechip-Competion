@@ -3,7 +3,7 @@
 ## Titanic Spaceship Competition on Kaggle
 Welcome to my repository dedicated to the Titanic Spaceship Competition on Kaggle! This project aims to showcase my approach to solving the competition's challenge, applying various machine learning techniques, and optimizing models for the best possible performance.
 
-Both python notebooks have been used for trying a final prediction. The best model I made got me a leadearboard position of 502/2403, which I hold today. I'm currently studying feature engineering so I can improve this resuls.
+Both python notebooks have been used for trying a final prediction. The best model I made got me a leadearboard position of 502/2403. I'm currently studying feature engineering so I can improve this resuls.
 
 ![image](https://github.com/fabio-scarel/Kaggle-Titanic-Spacechip-Competion/assets/114494196/109399a6-8168-4dfb-a683-4994d0060580)
 
